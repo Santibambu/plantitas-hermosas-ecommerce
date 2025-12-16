@@ -6,8 +6,8 @@ Sitio web de e-commerce desarrollado como proyecto final de la materia Desarroll
 Proyecto de un vivero ficticio orientado a la venta online de plantas y productos de jardinería. El objetivo fue aplicar conceptos de maquetado, estilos, estructura de un e-commerce y navegación entre secciones.
 
 ## Tecnologías
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## Funcionalidades
 - Catálogo de productos
