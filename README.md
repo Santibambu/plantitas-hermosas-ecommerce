@@ -8,7 +8,6 @@ Proyecto de un vivero ficticio orientado a la venta online de plantas y producto
 ## Tecnologías
 - HTML5
 - CSS3
-- JavaScript
 
 ## Funcionalidades
 - Catálogo de productos
