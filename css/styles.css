@@ -1,0 +1,99 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Pangolin', cursive;
+    color: black;
+}
+nav{
+    margin: 0px 0px 30px 0px;
+}
+.nav{
+    padding: 5px;
+    position: fixed;
+    z-index: 9999;
+    top: 0px;
+}
+.Sitio{
+    padding: 10px 0px 0px 5px;
+    font-size: 40px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+body{
+    background-image: linear-gradient(315deg, #f9ea8f 0%, #aff1da 74%);
+    margin: 50px 0px 0px 0px;
+}
+.espacio2{
+    padding: 20px 0px 20px 0px;
+}
+#Inicio{
+    text-align: center;
+}
+#Inicio h1{
+    text-decoration: underline;
+    margin: 0px 0px 15px 0px;
+}
+#Productos h1{
+    margin: 15px 0px 0px 0px;
+    padding: 15px 0px 15px 0px;
+}
+.tamaño{
+    height: 92%;
+    width: 95%;
+}
+#Plantas div:hover{
+    transform: scale(1.05);
+    transition: all 0.5s;
+}
+#Plantas div h3{
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    margin: 0px 0px 70px 0px;
+}
+.Plantas{
+    text-align: center;
+    margin: 25px 0px 25px 0px;
+}
+#Macetas div:hover{
+    transform: scale(1.05);
+    transition: all 0.5s;
+}
+#Macetas div h3{
+    text-align: center;
+    margin: 10px 0px 10px 0px;
+}
+.Macetas{
+    text-align: center;
+    margin: 0px 0px 25px 0px;
+}
+#Sustratos div:hover{
+    transform: scale(1.05);
+    transition: all 0.5s;
+}
+#Sustratos div h3{
+    text-align: center;
+    margin: 10px 0px 10px 0px;
+}
+.Sustratos{
+    text-align: center;
+    margin: 10px 0px 25px 0px;
+}
+footer{
+    margin: 5px 0px 0px 0px;
+}
+footer div{
+    padding: 10px 0px 10px 0px;
+}
+.centrado{
+    text-align: center;
+    padding: 0px;
+}
+input{
+    border: 3px solid rgba(156, 180, 17, 0.411);
+    border-radius: 5px;
+    background-color: rgba(238, 212, 65, 0.568);
+    text-align: center;
+}
